@@ -27,7 +27,7 @@ An interactive module to help users learn and practice multiplication tables, en
 
 To experience the BTC Application, download it directly from our official website:
 
-👉 [Download BTC Application](https://sites.google.com/view/btc-application-project/หน้าแรก)
+👉 [Download BTC Application]([https://sites.google.com/view/btc-application-project/หน้าแรก](https://sites.google.com/view/btc-application-project/%E0%B8%AB%E0%B8%99%E0%B8%B2%E0%B9%81%E0%B8%A3%E0%B8%81))
 
 ## About
 
